@@ -33,6 +33,7 @@ This roster would produce an output like this:
 
 ## Support
 Please raise issues in the issues tab.
+Feel free to contribute!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
