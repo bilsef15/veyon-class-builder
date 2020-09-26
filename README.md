@@ -35,5 +35,8 @@ This roster would produce an output like this:
 Please raise issues in the issues tab.
 Feel free to contribute!
 
+## Thanks!
+Many thanks to the countless forum posts and blogs (I have no idea how many) I consulted in building this!
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
