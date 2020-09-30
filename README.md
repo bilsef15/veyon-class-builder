@@ -42,3 +42,5 @@ Many thanks to the countless forum posts and blogs (I have no idea how many) I c
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+I just want people to feel free to use and modify it!
